@@ -19,5 +19,5 @@ u = 'adilet'
 v = 'yunus'
 w = 'atai'
 x = 'nurhan'
-11c = a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,t,u,v,w,x
-print(f'{hw}-{11c}')
+elevenc = a,b,c,d,e,f,g,i,j,k,l,m,n,o,p,t,u,v,w,x
+print(f'{hw} {elevenc}')
