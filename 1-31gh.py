@@ -20,4 +20,13 @@ v = 'yunus'
 w = 'atai'
 x = 'nurhan'
 elevenc = a,b,c,d,e,f,g,i,j,k,l,m,n,o,p,t,u,v,w,x
-print(f'{hw} {elevenc}')
+# print(f'{hw} {elevenc}')
+
+def rent(x,z, y):
+    addd = x + z / y
+    return addd
+
+def berent(cd):
+    print (cd)
+
+berent(rent(3, 20*7, 5))
