@@ -4,5 +4,5 @@ b = 'sandzhik'
 a = 'beko'
 d = 'ars'
 e = 'atanai'
-druzyaki =c+a+d+e+b
+druzyaki =f'{a}, {b}, {c}, {d}, {e}'
 print(f'{hw}-{druzyaki}')
