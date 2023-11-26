@@ -20,6 +20,8 @@ def string_splitter(x):
     c = list(x)
     for i in c:
         a = list(i)
-    print(a)
+    return a
 
-print(string_splitter(list1))
+j = (string_splitter(list1))
+
+print(f'{j[0]}{len(j)-2}{j[-1]}')
