@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Alisultan4
+- I'm from Kyrgyzstan
 - 👀 I’m interested in BackEnd development
 - 🌱 I’m currently learning Python, Django
 - 📫 How to reach me: Instagram(@alisayayy)
+- I created this repo to do 31github challenge from GrowyhHungry
