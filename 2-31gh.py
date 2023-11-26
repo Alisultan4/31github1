@@ -14,7 +14,7 @@
 # Выходные данные
 # Выведите n строк. В i строке должен находиться результат замены i-го слова из входных данных.
 
-list1 = "localization","internationalization"
+list1 = "localization","internationalization","pseudoscience"
 
 def string_splitter(x):
     c = list(x)
