@@ -14,3 +14,14 @@
 # Выходные данные
 # Выведите n строк. В i строке должен находиться результат замены i-го слова из входных данных.
 
+list1 = "localization","internationalization","pseudoscience"
+
+def string_splitter(x):
+    c = list(x)
+    for i in c:
+        a = list(i)
+    return a
+
+j = (string_splitter(list1))
+
+print(f'{j[0]}{len(j)-2}{j[-1]}')
